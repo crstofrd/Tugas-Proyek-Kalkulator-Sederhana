@@ -3,6 +3,6 @@ Repositori ini berisi proyek kolaborasi Python berupa kalkulator sederhana berba
 
 Kelompok Semangat :
 
-Christoford Novert Gumerung (250211060020)
-Marvel Edmund Kumaat (250211060066)
-Gerald Imanuel Manongga (250211060004)
+1. Christoford Novert Gumerung (250211060020)
+2. Marvel Edmund Kumaat (250211060066)
+3. Gerald Imanuel Manongga (250211060004)
