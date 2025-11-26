@@ -1,5 +1,6 @@
 #Main.py
-#Akan ada fungsi import operations.py dan input_handler.py
+import operations
+import input_handler
 
 def main():
     while True:
@@ -15,3 +16,19 @@ def main():
         if pilihan == '5':
             print("Terima kasih telah menggunakan kalkulator!")
             break
+
+        a, b = input_handler.get_numbers()
+
+        if pilihan == '1':
+            print("Hasil:", operations.tambah(a, b))
+        elif pilihan == '2':
+            print("Hasil:", operations.kurang(a, b))
+        elif pilihan == '3':
+            print("Hasil:", operations.kali(a, b))
+        elif pilihan == '4':
+            print("Hasil:", operations.bagi(a, b))
+        else:
+            print("Pilihan tidak valid!")
+
+if __name__ == "__main__":
+    main()
