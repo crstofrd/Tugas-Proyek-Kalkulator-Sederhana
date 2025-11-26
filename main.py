@@ -1,6 +1,16 @@
-#Main.py
-import operations
-import input_handler
+def tambah(a, b):
+    return a + b
+
+def kurang(a, b):
+    return a - b
+
+def kali(a, b):
+    return a * b
+
+def bagi(a, b):
+    if b == 0:
+        return None
+    return a / b
 
 def main():
     while True:
@@ -17,34 +27,22 @@ def main():
             print("Terima kasih telah menggunakan kalkulator!")
             break
 
-        a, b = input_handler.get_numbers()
+        a, b = get_numbers()
 
         if pilihan == '1':
-            print("Hasil:", operations.tambah(a, b))
+            print("Hasil:", tambah(a, b))
         elif pilihan == '2':
-            print("Hasil:", operations.kurang(a, b))
+            print("Hasil:", kurang(a, b))
         elif pilihan == '3':
-            print("Hasil:", operations.kali(a, b))
+            print("Hasil:", kali(a, b))
         elif pilihan == '4':
-            print("Hasil:", operations.bagi(a, b))
+            res = bagi(a, b)
+            if res is None:
+                print("Error: Tidak bisa membagi dengan nol")
+            else:
+                print("Hasil:", res)
         else:
             print("Pilihan tidak valid!")
 
-#operation.py
-
-def tambah(a, b): return a + b
-
-def kurang(a, b): return a - b
-
-def kali(a, b): return a * b
-
-def bagi(a,b): if b == 0:
-
-return "Error: Tidak bisa membagi dengan nol"
-
-return a/b 
-
-if __name__ == "_main_": 
+if __name__ == "__main__":
     main()
-
-
