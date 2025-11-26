@@ -1,6 +1,3 @@
-#Main.py
-#Akan ada fungsi import operations.py dan input_handler.py
-
 def main():
     while True:
         print("\n=== Kalkulator Sederhana ===")
@@ -15,3 +12,23 @@ def main():
         if pilihan == '5':
             print("Terima kasih telah menggunakan kalkulator!")
             break
+
+        a, b = get_numbers()
+
+        if pilihan == '1':
+            print("Hasil:", tambah(a, b))
+        elif pilihan == '2':
+            print("Hasil:", kurang(a, b))
+        elif pilihan == '3':
+            print("Hasil:", kali(a, b))
+        elif pilihan == '4':
+            res = bagi(a, b)
+            if res is None:
+                print("Error: Tidak bisa membagi dengan nol")
+            else:
+                print("Hasil:", res)
+        else:
+            print("Pilihan tidak valid!")
+
+if __name__ == "__main__":
+    main()
