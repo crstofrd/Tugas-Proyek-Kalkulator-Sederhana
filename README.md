@@ -27,7 +27,7 @@ Program ini dirancang sedemikian rupa untuk mencegah pengguna melakukan kesalaha
 Pengguna dapat menggunakan aplikasi ini berulang kali tanpa harus menjalankan ulang program.
  
 
-Kelompok Semangat 
+# Kelompok Semangat 
 Anggota :
 1. Christoford Novert Gumerung (250211060020)
 2. Marvel Edmund Kumaat (250211060066)
