@@ -1,6 +1,7 @@
 # Tugas Proyek Kalkulator Sederhana 
 # pendahuluaan 
-proyek ini adalah aplikasi kakulator sederhana yang berbasis console ( command line interface ) yang di bangun menggunakan bahasa pemograman phyton. program ini berfungsi untuk membantu pengguna untuk melakukan operasi aritmatika yang sederhana dan menyenangkan. selain fungsi utama nya sebagai alat hitung proyek ini di kembangkan sebagai simulasi tugas kolaborasi tim. tujuaan dari projek ini yakni untuk melatih penggunaan tim dalam penggunaan Git dan Git hub dalam lingkungan menggunakan perangkag lunak yang mencakup manajemen branch commit pull request serta penyelesaian confilic antar anggota tim
+Proyek ini adalah aplikasi kalkulator sederhana berbasis konsol (command line interface) yang dibangun menggunakan bahasa pemrograman Python. Program ini berfungsi untuk membantu pengguna melakukan operasi aritmatika yang sederhana dan menyenangkan.
+
 
 #fitur utama 
 aplikasi ini memiliki beberapa fitur utama dalam memudahkan pengguna dalam menggunakanya 
