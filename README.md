@@ -9,20 +9,20 @@ Proyek ini adalah aplikasi kalkulator sederhana berbasis konsol (command line in
 Aplikasi ini memiliki beberapa fitur utama untuk memudahkan pengguna dalam menggunakannya:
 Operasi aritmatika, yang terdiri dari:
 
-- Penjumlahan
+A Penjumlahan
 
-- Pengurangan
+B Pengurangan
 
-- Perkalian
+C Perkalian
 
-- Pembagian
+D Pembagian
 
 
-2. validasi input ( eror handling system ) 
-dimana program jni di buat sedemikian rupa untuk mencegah user membuat kesalahan dalam aplikasi tersebut 
+- Validasi input (error handling system)
+Program ini dirancang sedemikian rupa untuk mencegah pengguna melakukan kesalahan dalam memasukkan input ke dalam aplikasi.
 
-3.looping di aplikasi 
-user dengan mudah dapat menggunakan aplikasi ini berulang ulang tanpa menjalani progam nya kembali 
+- Looping di aplikasi
+Pengguna dapat menggunakan aplikasi ini berulang kali tanpa harus menjalankan ulang program.
  
 
 Kelompok Semangat 
