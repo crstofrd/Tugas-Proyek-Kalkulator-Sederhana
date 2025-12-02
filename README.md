@@ -7,8 +7,8 @@ Proyek ini adalah aplikasi kalkulator sederhana berbasis konsol (command line in
 #Fitur Utama
 
 Aplikasi ini memiliki beberapa fitur utama untuk memudahkan pengguna dalam menggunakannya:
-Operasi aritmatika, yang terdiri dari:
 
+- Operasi aritmatika, yang terdiri dari:
 A Penjumlahan
 
 B Pengurangan
