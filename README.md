@@ -4,14 +4,19 @@ Proyek ini adalah aplikasi kalkulator sederhana berbasis konsol (command line in
 
 
 
-#fitur utama 
-aplikasi ini memiliki beberapa fitur utama dalam memudahkan pengguna dalam menggunakanya 
+#Fitur Utama
 
-1. operasi aritmatika yang terdiri dari 
-  -penjumblahan 
-  -pengurangan 
-  -perkaliaan 
-  -pembagiaan 
+Aplikasi ini memiliki beberapa fitur utama untuk memudahkan pengguna dalam menggunakannya:
+Operasi aritmatika, yang terdiri dari:
+
+- Penjumlahan
+
+- Pengurangan
+
+- Perkalian
+
+- Pembagian
+
 
 2. validasi input ( eror handling system ) 
 dimana program jni di buat sedemikian rupa untuk mencegah user membuat kesalahan dalam aplikasi tersebut 
