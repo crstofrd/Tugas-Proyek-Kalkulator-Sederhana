@@ -6,7 +6,7 @@ Proyek ini adalah aplikasi kalkulator sederhana berbasis konsol (command line in
 
 
 
-#*Fitur Utama*
+# Fitur Utama
 
 Aplikasi ini memiliki beberapa fitur utama untuk memudahkan pengguna dalam menggunakannya:
 
