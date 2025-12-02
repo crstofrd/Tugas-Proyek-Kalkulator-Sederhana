@@ -1,5 +1,6 @@
 # Tugas-Proyek-Kalkulator-Sederhana
-Repositori ini berisi proyek kolaborasi Python berupa kalkulator sederhana berbasis console yang memiliki fitur penjumlahan, pengurangan, perkalian, dan pembagian. Tugas ini bertujuan melatih penggunaan GitHub secara tim dengan branch, commit, pull request, dan merge, serta memastikan program dapat berjalan baik tanpa error.
+# pendahuluaan 
+proyek ini adalah aplikasi kakulator sederhana yang berbasis console ( command line interface ) yang di bangun menggunakan bahasa pemograman phyton. program ini berfungsi untuk membantu pengguna untuk melakukan operasi aritmatika yang sederhana dan menyenangkan. selain fungsi utama nya sebagai alat hitung proyek ini di kembangkan sebagaj simulasi tugas kolaborasi tim. tujuaan dari projek ini yakni untuk melatih penggunaan tim dalam penggunaan GIT dan GIT HUB dalam lingkungan menggunakan perangkag lunak 
 
 Kelompok Semangat 
 Anggota :
