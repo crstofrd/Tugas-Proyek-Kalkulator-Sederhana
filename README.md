@@ -10,6 +10,12 @@ aplikasi ini memiliki beberapa fitur utama dalam memudahkan pengguna dalam mengg
   -pengurangan 
   -perkaliaan 
   -pembagiaan 
+
+2. validasi input ( eror handling system ) 
+dimana program jni di buat sedemikian rupa untuk mencegah user membuat kesalahan dalam aplikasi tersebut 
+
+3.looping di aplikasi 
+user dengan mudah dapat menggunakan aplikasi ini berulang ulang tanpa menjalani progam nya kembali 
  
 
 Kelompok Semangat 
