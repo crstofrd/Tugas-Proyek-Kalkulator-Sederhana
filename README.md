@@ -48,5 +48,16 @@ Pengguna dapat menggunakan aplikasi ini berulang kali tanpa harus menjalankan ul
 ![rancangan sistem menggunakan diagram flowchart](diagram.jpg)
 
 ### 2. Penjelasan
-**A. Mulai(Start)**
-Flowchart diawali dengan bertuliskan simbol oval "MULAI"
+**A. Mulai(Start)** : Flowchart diawali dengan bertuliskan simbol oval "MULAI". Ini menandakan bahwa program kalkulator siap dijalankan.
+
+**B. Menampilkan Menu Kalkulator** : Setelah mulai, sistem menampilkan menu
+
+1. Tambah
+2. Kurang
+3. Kali
+4. Bagi
+5. Keluar
+
+**C. Input Pilihan Pengguna** : Disini pengguna diminta untuk memilih operasi (1-5). Langkah ini digambarkan pada simbol persegi panjang yag dimana menyatakan proses yang akan dilakukan.
+
+**D. 
