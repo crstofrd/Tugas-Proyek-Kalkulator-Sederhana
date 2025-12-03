@@ -25,5 +25,12 @@ Program ini dirancang sedemikian rupa untuk mencegah pengguna melakukan kesalaha
 
 ### 3. Looping di aplikasi
 Pengguna dapat menggunakan aplikasi ini berulang kali tanpa harus menjalankan ulang program.
- 
+
+
+
+## Panduan Instalasi
+
+1. Pastikan ***Python*** atau ***Visual Studio Code*** telah terinstall di laptop/komputer anda.
+2. Buka link repository yang telah dilampirkan di laporan halaman pertama, maka anda akan diarahkan ke repository kami yang berisi proyek kalkulator sederhana dengan menggunakan bahasa pemrograman Phyton. Di branch default, download file bernama ***“main.py”***.
+3. Tunggu sampai file ***"main.py*** terinstall dan siap untuk dijalankan.
 
