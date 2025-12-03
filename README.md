@@ -40,3 +40,13 @@ Pengguna dapat menggunakan aplikasi ini berulang kali tanpa harus menjalankan ul
 2. Ketik ***“python main.py”***, lalu jalankan.
 3. Fungsi kalkulator sederhana dapat digunakan sesuai dengan kebutuhan pengguna. 
 - Atau anda juga dapat membuka file ***“main.py”*** tersebut pada aplikasi Visual Studio Code agar dapat dijalankan lebih mudah. 
+
+
+
+## Dokumentasi Teknis
+### 1. Diagram Flowchart
+![rancangan sistem menggunakan diagram flowchart](diagram.jpg)
+
+### 2. Penjelasan
+**A. Mulai(Start)**
+Flowchart diawali dengan bertuliskan simbol oval "MULAI"
