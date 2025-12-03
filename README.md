@@ -36,7 +36,7 @@ Pengguna dapat menggunakan aplikasi ini berulang kali tanpa harus menjalankan ul
 
 ## Panduan Menjalankan
 
-1. Jika file telah terinstall, pindahkan file “main.py” ke folder user sesuai dengan alamat komputer/laptop masing-masing.
+1. Jika file telah terinstall, pindahkan file ***“main.py”*** ke folder user sesuai dengan alamat komputer/laptop masing-masing.
 2. Ketik ***“python main.py”***, lalu jalankan.
 3. Fungsi kalkulator sederhana dapat digunakan sesuai dengan kebutuhan pengguna. 
 - Atau anda juga dapat membuka file ***“main.py”*** tersebut pada aplikasi Visual Studio Code agar dapat dijalankan lebih mudah. 
