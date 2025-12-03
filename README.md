@@ -34,3 +34,9 @@ Pengguna dapat menggunakan aplikasi ini berulang kali tanpa harus menjalankan ul
 2. Buka link repository yang telah dilampirkan di laporan halaman pertama, maka anda akan diarahkan ke repository kami yang berisi proyek kalkulator sederhana dengan menggunakan bahasa pemrograman Phyton. Di branch default, download file bernama ***“main.py”***.
 3. Tunggu sampai file ***"main.py*** terinstall dan siap untuk dijalankan.
 
+## Panduan Menjalankan
+
+1. Jika file telah terinstall, pindahkan file “main.py” ke folder user sesuai dengan alamat komputer/laptop masing-masing.
+2. Ketik ***“python main.py”***, lalu jalankan.
+3. Fungsi kalkulator sederhana dapat digunakan sesuai dengan kebutuhan pengguna. 
+- Atau anda juga dapat membuka file ***“main.py”*** tersebut pada aplikasi Visual Studio Code agar dapat dijalankan lebih mudah. 
