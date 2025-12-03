@@ -60,4 +60,16 @@ Pengguna dapat menggunakan aplikasi ini berulang kali tanpa harus menjalankan ul
 
 **C. Input Pilihan Pengguna** : Disini pengguna diminta untuk memilih operasi (1-5). Langkah ini digambarkan pada simbol persegi panjang yag dimana menyatakan proses yang akan dilakukan.
 
-**D. 
+**D. Percabangan (Apakah pilihan = 5?)** : Disini terjadi pengambilan keputusan yang ditampilkan dengan simbol belah ketupat.
+- Jika Ya(True) artinya pengguna memilih keluar (Program akan berhenti/selesai).
+- Jika Tidak(False) artinya pengguna memilih operasi 1-4 dan melanjutkan ke input angka.
+
+**E. Input angka A dan B** : Bagian ini program meminta pengguna untuk memasukkan angka untuk dioperasikan.
+
+**F. Percabangan (Jika pembagian, b = 0?)** : Tahap ini adalah pengecekan khusus pada operasi pembagian. Ketika suatu bilangan dibagi dengan 0, maka muncul ***pesan error*** alias tidak terdefinisi. Sedangkan jika bilangan dibagi dengan bilangan yang bukan 0, sistem akan tetap melakukan perhitungan seperti biasa.
+
+**G. Tampilkan Hasil** : Setelah operasi perhitungan sudah selesai dan berjalan dengan baik, sistem akan menampilkan hasil bagi pengguna. Hasil yang didapatkan menyesuaikan dengan operasi yang telah di pilih.
+
+**H. Kembali ke menu** : Setelah hasil ditampilkan, alur kembali lagi ke menu utama. Hal ini memungkinkan pengguna melakukan perhitungan kembali tanpa harus menjalankan ulang program.
+
+**I. Selesai(End)** : Program akan berakhir sampai pengguna memilih menu keluar(5) yang mengarahkan langsung ke simbol selesai. Ini menandakan bahwa program sudah selesai secara keseluruhan.
