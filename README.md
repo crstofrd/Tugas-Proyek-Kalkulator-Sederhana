@@ -45,7 +45,7 @@ Pengguna dapat menggunakan aplikasi ini berulang kali tanpa harus menjalankan ul
 
 ## Dokumentasi Teknis
 ### 1. Diagram Flowchart
-![rancangan sistem menggunakan diagram flowchart](diagram.jpg)
+![rancangan sistem menggunakan diagram flowchart]()
 
 ### 2. Penjelasan
 **A. Mulai(Start)** : Flowchart diawali dengan bertuliskan simbol oval "MULAI". Ini menandakan bahwa program kalkulator siap dijalankan.
