@@ -73,3 +73,11 @@ Pengguna dapat menggunakan aplikasi ini berulang kali tanpa harus menjalankan ul
 **H. Kembali ke menu** : Setelah hasil ditampilkan, alur kembali lagi ke menu utama. Hal ini memungkinkan pengguna melakukan perhitungan kembali tanpa harus menjalankan ulang program.
 
 **I. Selesai(End)** : Program akan berakhir sampai pengguna memilih menu keluar(5) yang mengarahkan langsung ke simbol selesai. Ini menandakan bahwa program sudah selesai secara keseluruhan.
+
+## Daftar Kontributor(TABEL)
+
+| Nama | Nim | Link Akun GitHub |
+| :---: | :---: | :---: |
+| Gerald Imanuel Manongga | 250211060004 | https://github.com/manonggagerald-blip |
+| Christoford Novert Gumerung | 250211060020 | https://github.com/crstofrd |
+| Marvel Edmund Kumaat | 250211060066 | https://github.com/Hera28 |
